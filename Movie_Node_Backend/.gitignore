@@ -1,0 +1,4 @@
+./config/config.env
+./config/db.js
+./package-lock.json
+./package.json
