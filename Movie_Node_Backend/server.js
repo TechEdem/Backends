@@ -28,5 +28,5 @@ app.use(userRouter);
 const PORT = process.env.PORT || 8903;
 
 app.listen(PORT, ()=>{
-    console.log(`Server is running successfully`.blue.underline);
+    console.log(`Server is running successfully`.yellow.underline);
 });
